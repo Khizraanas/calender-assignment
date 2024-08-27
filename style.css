@@ -1,0 +1,30 @@
+.container1{
+    background-image: url(./backround.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-style: italic;
+    font-family: josefin sans-serif;
+    height: 100vh;
+    
+
+}
+.header{
+    background-image: url(./asset/bg_1-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-style: italic;
+    font-family: josefin sans-serif;
+    
+
+}
+.holiday:hover {
+    cursor: pointer;
+    background-color:red;
+    color: azure;
+    
+
+
+
+}
